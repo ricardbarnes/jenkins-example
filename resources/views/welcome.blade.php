@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Jenkins - Example</title>
+        <title>Jenkins - Example #1</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -127,6 +127,9 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div>
+            <h2>Le Coco!</h2>
         </div>
     </body>
 </html>
